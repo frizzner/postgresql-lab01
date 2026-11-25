@@ -22,9 +22,7 @@ WHERE table_schema = 'public'
 ORDER BY table_name;
 ```
 
-Результат: у схемі `public` створено 8 основних таблиць: `categories`, `customers`, `employees`, `order_items`, `orders`, `products`, `regions`, `suppliers`.
 
-![Список таблиць](results/query-tables.png)
 
 ### Рівень 1. Базові вибірки
 

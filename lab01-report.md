@@ -712,7 +712,7 @@ FROM customers GROUP BY city ORDER BY customers DESC, city;
 
 Результат: Отримано 5 міст. Київ має найбільшу частку: 4 клієнти з 15, або 26,67%.
 
-![Результат запиту 3.15](results/query-3-15.png)
+
 
 ### 3.16. Покриття областей
 
